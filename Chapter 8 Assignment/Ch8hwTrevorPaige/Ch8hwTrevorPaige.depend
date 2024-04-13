@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1633904157 source:c:\users\xzxco\onedrive\nsu college\fall 2021\tcc - c language\clangprojects\chapter 8 assignment\ch8hwtrevorpaige\ch8hwtrevorpaige.c
+	<stdio.h>
+	<string.h>
+	<ctype.h>
+
